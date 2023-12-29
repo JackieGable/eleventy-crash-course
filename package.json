@@ -1,7 +1,7 @@
 {
   "name": "eleventy-crash-course",
   "version": "1.0.0",
-  "description": "",
+  "description": "These are the source files for part 1 of my Eleventy Crash Course series on YouTube.",
   "main": "index.js",
   "scripts": {
     "build": "npx eleventy",
@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.0"
+    "@11ty/eleventy": "^1.0.2"
   }
 }
